@@ -1,7 +1,8 @@
 <simulation>
 
   <schematype>flat</schematype>
-  <simhandle>{{.Handle}}</simhandle> <control>
+  <control>
+    <simhandle>{{.Handle}}</simhandle> 
     <duration>2400</duration>
     <startmonth>1</startmonth>
     <startyear>2015</startyear>
