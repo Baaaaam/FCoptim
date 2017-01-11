@@ -1,0 +1,4 @@
+obj.log
+optim.log
+run.log
+*.sqlite
