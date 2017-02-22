@@ -3,7 +3,7 @@
   <schematype>flat</schematype>
   <control>
     <simhandle>{{.Handle}}</simhandle> 
-    <duration>2400</duration>
+    <duration>600</duration>
     <startmonth>1</startmonth>
     <startyear>2015</startyear>
     <decay>never</decay>
@@ -622,7 +622,7 @@
 
 
   <prototype>
-    <name>M_PWR_builder</name>
+    <name>M_PWR_inst</name>
     <config>
       <GroupInst>
         <prototypes>
@@ -637,7 +637,7 @@
 
 
   <prototype>
-    <name>M_FBR_builder</name>
+    <name>M_FBR_inst</name>
     <config>
       <GroupInst>
         <prototypes>
